@@ -35,4 +35,4 @@ while True:
         
 
     
-    time.sleep_ms(100)  # 每隔800毫秒輸出一次
+    time.sleep_ms(100)  # 每隔100毫秒輸出一次
